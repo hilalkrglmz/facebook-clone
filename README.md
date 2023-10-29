@@ -1,9 +1,6 @@
 
 
-Uploading ezgif.com-gif-maker (10).mp4…
-
-
-
+https://github.com/hilalkrglmz/facebook-clone/assets/140657703/c364fc8a-e53f-4579-a22d-401a3b7aba5f
 
 
 <!DOCTYPE html>
